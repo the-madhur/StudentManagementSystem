@@ -11,7 +11,7 @@ import com.student.manage.StudentDao;
 public class Start {
 	public static void main(String[] args) throws NumberFormatException, IOException
 	{
-		System.out.println("Welcome to Student Managemnt System");
+		System.out.println("Welcome to Student Management System");
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 		while(true)
 		{
