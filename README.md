@@ -51,7 +51,7 @@ Student-Management-System/
 ```
 
 ## 🗮️ GitHub Repository
-[https://github.com/the-madhur/StudentManagementSystem]
+https://github.com/the-madhur/StudentManagementSystem
 
 ## 📞 Contact
 For any questions or collaborations, reach out via:
