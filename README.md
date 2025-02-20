@@ -17,7 +17,7 @@ A simple **Java-based CRUD application** for managing student records using **SQ
 ## 🚀 How to Run
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/your-username/Student-Management-System.git
+   git clone (https://github.com/the-madhur/StudentManagementSystem)
    ```
 2. **Open in Eclipse**:
    - Open Eclipse IDE.
